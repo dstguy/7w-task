@@ -1,0 +1,60 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+body {
+    display: inline-block;
+    width: 100%;
+    font-family: 'system-ui','Gill Sans';
+    background-color:#D3E4FE ;
+}
+.row{
+    background-color: #fff;
+    padding: 2rem;
+}
+h1{
+   color:#0712FF; 
+}
+h4{
+    color:#0712FF; 
+}
+
+button{
+background-color:#233BF5 ;
+color: #fff;
+border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+p{
+    color:#03BE8B ;
+}
+.Get{
+    
+}
+.Firs{
+    background-color:#E7E9FE ;
+}
+.Last{
+    background-color:#E7E9FE ;
+}
+.Email{
+    background-color:#DCE1FF ;
+}
+.Phone{
+    background-color:#DCE1FF ;
+}
+.Address{
+    background-color:#C7CDFD;
+}
+.Type{
+    background-color:#A5B1FD;
+}
+.Thanks{
+
+}
